@@ -1,0 +1,6 @@
+a = input('Enter a number:');
+b = input('Enter a number:');
+c = Min(a,b)
+function c =Min(a,b)
+c = min(a,b);
+end
